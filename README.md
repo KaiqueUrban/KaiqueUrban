@@ -13,8 +13,8 @@
 </div>
 
 ## My Stack
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kaique-JS" height="30 width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Kaique-Python" height="30 width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<div style="display: inline-block; margin-top: -10px">
+  <img align="center" alt="Kaique-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Kaique-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 
