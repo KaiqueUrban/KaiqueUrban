@@ -1,8 +1,8 @@
 ## Oi! Eu sou o Kaique!
 <div>
   <a href="https://github.com/KaiqueUrban">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaiqueUrban&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueUrban&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaiqueUrban&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueUrban&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ## Connect With Me!    
